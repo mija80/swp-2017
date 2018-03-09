@@ -1,0 +1,9 @@
+.winning-box {
+	width: 100%;
+	background-color: red;
+	text-align: center;
+    font-size: 50px;
+    color: #fff;
+    padding: 50px;
+    display: none;
+}
